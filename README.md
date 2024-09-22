@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# O-food
-=======
+
 # O-Food
 
 ## Overview
@@ -17,12 +15,4 @@ O-Food is a web application designed to provide healthy, convenient meal deliver
 - **Call to Action**: Encourages users to sign up for a free meal.
 - **Footer**: Includes contact information and copyright details.
 
-## Installation
 
-To get started with this project locally:
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/Akash3731/O-food.git
->>>>>>> 4921553 (Initial commit)
